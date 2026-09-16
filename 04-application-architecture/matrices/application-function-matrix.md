@@ -5,7 +5,7 @@ artifact_type: matrix
 adm_phase: Application Architecture
 status: reviewed
 owner: Application Architect
-version: 1.1
+version: 1.2
 ---
 
 # Application/Function Matrix
@@ -27,6 +27,7 @@ support (P = Primary system, S = Secondary/partial support).
 | **Beacon CRM** | | | P | S |
 | **WMS Classic** | | S | | |
 | **Coastal Legacy ERP** | S | S | | |
+| **Atlas Support Agent** | | | S | |
 
 ## Legend
 
@@ -43,3 +44,8 @@ support (P = Primary system, S = Secondary/partial support).
 - WMS Classic is Secondary for Inventory Management pending real-time stock
   sync; it is slated for replacement by FlowStock WMS (SBB-03) per gap G-04
   in [[06-opportunities-and-solutions/gap-analysis]].
+- Atlas Support Agent is Secondary for Customer Management: it assists with
+  order-support conversations under human oversight but does not own the
+  customer record (Beacon CRM remains Primary). See
+  [[04-application-architecture/matrices/ai-agent-responsibility-matrix]] for
+  the action-level breakdown.

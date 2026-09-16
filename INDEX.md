@@ -13,9 +13,11 @@ added, renamed, or its status/version changes.
 | DATA-CAT-01 | Data Entity Catalog | catalog | Data Architecture | reviewed | Data Architect | 1.0 | `03-data-architecture/catalogs/data-entity-catalog.md` |
 | DATA-MAT-01 | Data Entity/Business Function Matrix | matrix | Data Architecture | reviewed | Data Architect | 1.0 | `03-data-architecture/matrices/data-entity-business-function-matrix.md` |
 | DATA-DIA-01 | Core Data Entity Relationship Diagram | diagram | Data Architecture | reviewed | Data Architect | 1.0 | `03-data-architecture/diagrams/core-data-entity-relationship-diagram.md` |
-| APP-CAT-01 | Application Portfolio Catalog | catalog | Application Architecture | reviewed | Application Architect | 1.0 | `04-application-architecture/catalogs/application-portfolio-catalog.md` |
-| APP-MAT-01 | Application/Function Matrix | matrix | Application Architecture | reviewed | Application Architect | 1.1 | `04-application-architecture/matrices/application-function-matrix.md` |
-| APP-DIA-01 | Application Communication Diagram | diagram | Application Architecture | reviewed | Application Architect | 1.0 | `04-application-architecture/diagrams/application-communication-diagram.md` |
+| APP-CAT-01 | Application Portfolio Catalog | catalog | Application Architecture | reviewed | Application Architect | 1.1 | `04-application-architecture/catalogs/application-portfolio-catalog.md` |
+| APP-MAT-01 | Application/Function Matrix | matrix | Application Architecture | reviewed | Application Architect | 1.2 | `04-application-architecture/matrices/application-function-matrix.md` |
+| APP-DIA-01 | Application Communication Diagram | diagram | Application Architecture | reviewed | Application Architect | 1.1 | `04-application-architecture/diagrams/application-communication-diagram.md` |
+| APP-DIA-02 | AI Agent Architecture Diagram - Atlas Support Agent | diagram | Application Architecture | draft | AI Solutions Architect | 0.1 | `04-application-architecture/diagrams/ai-agent-architecture-diagram.md` |
+| APP-MAT-04 | AI Agent Responsibility Matrix - Atlas Support Agent | matrix | Application Architecture | draft | AI Solutions Architect | 0.1 | `04-application-architecture/matrices/ai-agent-responsibility-matrix.md` |
 | TECH-CAT-01 | Technology Standards Catalog | catalog | Technology Architecture | reviewed | Technology Architect | 1.1 | `05-technology-architecture/catalogs/technology-standards-catalog.md` |
 | TECH-MAT-01 | Application/Technology Matrix | matrix | Technology Architecture | reviewed | Technology Architect | 1.0 | `05-technology-architecture/matrices/application-technology-matrix.md` |
 | TECH-DIA-01 | Environments and Locations Diagram | diagram | Technology Architecture | reviewed | Technology Architect | 1.0 | `05-technology-architecture/diagrams/environments-and-locations-diagram.md` |
@@ -29,14 +31,14 @@ added, renamed, or its status/version changes.
 | CAP-ASM-01 | Capability Assessment - Commerce Capabilities | capability-assessment | Preliminary | approved | Chief Architect | 1.0 | `00-preliminary/capability-assessment.md` |
 | SBB-CAT-01 | Solution Building Blocks Catalog | catalog | Opportunities and Solutions | approved | Chief Architect | 1.0 | `06-opportunities-and-solutions/solution-building-blocks-catalog.md` |
 | GOV-CONTRACT-01 | Architecture Contract - WP-02 Customer Profile Consolidation | architecture-contract | Implementation Governance | approved | Architecture Review Board | 1.0 | `08-implementation-governance/architecture-contract.md` |
-| RISK-REG-01 | Risk Register - Unified Commerce Platform | risk-register | Risk and Security | approved | CISO | 1.1 | `11-risk-and-security/risk-register.md` |
+| RISK-REG-01 | Risk Register - Unified Commerce Platform | risk-register | Risk and Security | approved | CISO | 1.2 | `11-risk-and-security/risk-register.md` |
 | SEC-DIA-01 | Security Architecture Diagram - Payment & Customer Data Zones | diagram | Risk and Security | approved | CISO | 1.2 | `11-risk-and-security/security-architecture-diagram.md` |
 | BUS-CAT-02 | Organization/Actor Catalog | catalog | Business Architecture | reviewed | Business Architect | 1.0 | `02-business-architecture/catalogs/organization-actor-catalog.md` |
 | BUS-DIA-02 | Business Footprint Diagram | diagram | Business Architecture | reviewed | Business Architect | 1.0 | `02-business-architecture/diagrams/business-footprint-diagram.md` |
 | VISION-DIA-02 | Solution Concept Diagram | diagram | Architecture Vision | approved | Chief Architect | 1.0 | `01-architecture-vision/solution-concept-diagram.md` |
 | APP-MAT-02 | Application/Data Matrix | matrix | Application Architecture | reviewed | Application Architect | 1.1 | `04-application-architecture/matrices/application-data-matrix.md` |
 | DATA-DIA-02 | Data Dissemination Diagram | diagram | Data Architecture | reviewed | Data Architect | 1.0 | `03-data-architecture/diagrams/data-dissemination-diagram.md` |
-| APP-CAT-02 | Interface Catalog | catalog | Application Architecture | reviewed | Application Architect | 1.1 | `04-application-architecture/catalogs/interface-catalog.md` |
+| APP-CAT-02 | Interface Catalog | catalog | Application Architecture | reviewed | Application Architect | 1.2 | `04-application-architecture/catalogs/interface-catalog.md` |
 | TECH-DIA-02 | Platform Decomposition Diagram | diagram | Technology Architecture | reviewed | Technology Architect | 1.0 | `05-technology-architecture/diagrams/platform-decomposition-diagram.md` |
 | VISION-SOW-01 | Statement of Architecture Work - Unified Commerce Platform | statement-of-work | Architecture Vision | approved | Chief Architect | 1.0 | `01-architecture-vision/statement-of-architecture-work.md` |
 | BUS-MAT-02 | Actor/Role Matrix | matrix | Business Architecture | reviewed | Business Architect | 1.0 | `02-business-architecture/matrices/actor-role-matrix.md` |
